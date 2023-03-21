@@ -512,3 +512,8 @@ If you have any kind of feedback about this project feel free to use the Discuss
 You can use the [Show and tell](https://github.com/ggerganov/whisper.cpp/discussions/categories/show-and-tell) category
 to share your own projects that use `whisper.cpp`. If you have a question, make sure to check the
 [Frequently asked questions (#126)](https://github.com/ggerganov/whisper.cpp/discussions/126) discussion.
+
+
+
+## mp4 to mp3 conversion
+https://superuser.com/questions/704493/ffmpeg-convert-m4a-to-mp3-without-significant-loss
